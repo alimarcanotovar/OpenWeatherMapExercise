@@ -1,0 +1,17 @@
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\bin\Debug\net6.0\OpenWeatherMapExercise.exe
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\bin\Debug\net6.0\OpenWeatherMapExercise.deps.json
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\bin\Debug\net6.0\OpenWeatherMapExercise.runtimeconfig.json
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\bin\Debug\net6.0\OpenWeatherMapExercise.dll
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\bin\Debug\net6.0\OpenWeatherMapExercise.pdb
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.csproj.AssemblyReference.cache
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.AssemblyInfoInputs.cache
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.AssemblyInfo.cs
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.csproj.CoreCompileInputs.cache
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.csproj.CopyComplete
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.dll
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\refint\OpenWeatherMapExercise.dll
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.pdb
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\OpenWeatherMapExercise.genruntimeconfig.cache
+C:\Users\Weeb\Desktop\Repos\OpenWeatherMapExercise\OpenWeatherMapExercise\OpenWeatherMapExercise\obj\Debug\net6.0\ref\OpenWeatherMapExercise.dll
